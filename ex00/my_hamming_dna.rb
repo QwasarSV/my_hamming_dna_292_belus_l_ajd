@@ -15,4 +15,4 @@ def my_hamming_dna(str1, str2)
     count
 end
 
-# my_hamming_dna(ARGV[0], ARGV[1])
+# p my_hamming_dna(ARGV[0], ARGV[1])

@@ -2,19 +2,28 @@
 ***
 
 ## Task
-TODO - What is the problem? And where is the challenge?
+
+Comparing two string and getting the number of different char and calculate the Hamming difference between two DNA strands.
 
 ## Description
-TODO - How have you solved the problem?
+
+by comparing the size of both strings and then comparing each individual character 
+
+The Hamming distance between these two DNA strands is 7.
+Your function will return an integer
+Given 2 strings with the exact number of characters, count how many characters are different at the same position. if they don't share the exact number of characters, return -1.
+if the two arguments are not the same size, you will return -1
+
 
 ## Installation
-TODO - How to install your project? npm install? make? make re?
+
+no installation 
 
 ## Usage
-TODO - How does it work?
-```
-./my_project argument1 argument2
-```
+
+Type in ``ruby ex00/my_hamming_dna.rb [str1] [str2]`` inside the terminal
+
+
 
 ### The Core Team
 * [Lorris BELUS](//github.com/Lbelus) - Developer
